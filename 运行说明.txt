@@ -1,0 +1,5 @@
+启动ollama（已在config/config.toml中配置）
+
+conda activate manus
+
+python main.py
