@@ -1,3 +1,5 @@
+在 config/config.toml 配置llm： ollama qwen3 或 deepseek
+
 启动ollama（已在config/config.toml中配置）
 
 conda activate manus
